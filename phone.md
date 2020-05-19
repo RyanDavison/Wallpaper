@@ -13,7 +13,7 @@ Simply click an image in order to download it. If the download does not begin, r
 ![Meadow Flowers](/images/phone/Meadow Flowers 9x16.jpg)
 </a>
 <a download="Blue-Green Marble 9x16.jpg" href="./images/phone/Blue-Green Marble 9x16.jpg" title="Blue-Green Marble">
-![Blue-Green Marble(/images/phone/Blue-Green Marble 9x16.jpg)
+![Blue-Green Marble](/images/phone/Blue-Green Marble 9x16.jpg)
 </a>
 <a download="Pink Marble 9x16.jpg" href="./images/phone/Pink Marble 9x16.jpgg" title="Pink Marble">
 ![Pink Marble](/images/phone/Pink Marble 9x16.jpg)
