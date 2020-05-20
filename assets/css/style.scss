@@ -17,13 +17,13 @@ img {
 
 /* Portrait */
 @media screen 
-  and (max-width: 600px) 
-  and (-webkit-device-pixel-ratio: 4) 
+  and (max-device-width: 500px)  
   and (orientation: portrait) {
 
       img {
-        width:90%;
-        padding:0.5rem;
+        margin-left: auto;
+        margin-right: auto;
+        width: 90%;
         }
       
 }
