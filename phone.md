@@ -13,6 +13,12 @@ Simply click an image in order to download it. If the download does not begin, r
 <a id="Cairn" download="Cairn 9x16.jpg" href="./images/phone/Cairn 9x16.jpg" title="Cairn">
 ![Cairn](/images/phone/Cairn 9x16.jpg)
 </a>
+<a id="Prarie" download="Prarie Smoke 9x16.jpg" href="./images/phone/Prarie Smoke 9x16.jpg" title="Prarie Smoke">
+![Prarie Smoke](/images/phone/Prarie Smoke 9x16.jpg)
+</a>
+<a id="leaf" download="Leaf 9x16.jpg" href="./images/phone/Leaf 9x16.jpg" title="Leaf">
+![Leaf](/images/phone/Leaf 9x16.jpg)
+</a>
 <a id="Tree" download="Tree 9x16.jpg" href="./images/phone/Tree 9x16.jpg" title="Tree">
 ![Tree](/images/phone/Tree 9x16.jpg)
 </a>
