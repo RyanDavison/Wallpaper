@@ -17,9 +17,8 @@ img {
 
 /* Portrait */
 @media screen 
-  and (device-width: 320px) 
-  and (device-height: 640px) 
-  and (-webkit-device-pixel-ratio: 2) 
+  and (max-width: 600px) 
+  and (-webkit-device-pixel-ratio: 4) 
   and (orientation: portrait) {
 
       img {
