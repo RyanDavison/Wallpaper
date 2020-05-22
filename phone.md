@@ -43,18 +43,6 @@ Simply click an image in order to download it. If the download does not begin, r
 <a id="leaf" download="Leaf 9x16.jpg" href="./images/phone/Leaf 9x16.jpg" title="Leaf">
 ![Leaf](/images/phone/Leaf 9x16.jpg)
 </a>
-<a id="Tree" download="Tree 9x16.jpg" href="./images/phone/Tree 9x16.jpg" title="Tree">
-![Tree](/images/phone/Tree 9x16.jpg)
-</a>
-<a id="Bluebird" download="Blue Watercolor Bird.jpg" href="./images/phone/Blue Watercolor Bird.jpg" title="Blue Watercolor Bird">
-![Blue Watercolor Bird](/images/phone/Blue Watercolor Bird.jpg)
-</a>
-<a id="Redbird" download="Red Watercolor Bird 9x16.jpg" href="./images/phone/Red Watercolor Bird 9x16.jpg" title="Red Watercolor Bird">
-![Red Watercolor Bird](/images/phone/Red Watercolor Bird 9x16.jpg)
-</a>
-<a id="Brownleaves" download="Brown Leaves 9x16.jpg" href="./images/phone/Brown Leaves 9x16.jpg" title="Brown Watercolor Leaves">
-![Brown Watercolor Leaves](/images/phone/Brown Leaves 9x16.jpg)
-</a>
 <a id="Oil" download="Oil and Water 9x16.jpg" href="./images/phone/Oil and Water 9x16.jpg" title="Oil and Water">
 ![Oil and Water](/images/phone/Oil and Water 9x16.jpg)
 </a>
@@ -69,6 +57,18 @@ Simply click an image in order to download it. If the download does not begin, r
 </a>
 <a id="Field" download="Field of Flowers 9x16.jpg" href="./images/phone/Field of Flowers 9x16.jpg" title="Field of Flowers">
 ![Field of Flowers](/images/phone/Field of Flowers 9x16.jpg)
+</a>
+<a id="Tree" download="Tree 9x16.jpg" href="./images/phone/Tree 9x16.jpg" title="Tree">
+![Tree](/images/phone/Tree 9x16.jpg)
+</a>
+<a id="Bluebird" download="Blue Watercolor Bird.jpg" href="./images/phone/Blue Watercolor Bird.jpg" title="Blue Watercolor Bird">
+![Blue Watercolor Bird](/images/phone/Blue Watercolor Bird.jpg)
+</a>
+<a id="Redbird" download="Red Watercolor Bird 9x16.jpg" href="./images/phone/Red Watercolor Bird 9x16.jpg" title="Red Watercolor Bird">
+![Red Watercolor Bird](/images/phone/Red Watercolor Bird 9x16.jpg)
+</a>
+<a id="Milkweed" download="Milkweed seeds 9x16.jpg" href="./images/phone/Milkweed seeds 9x16.jpg" title="Milkweed seeds">
+![Milkweed seeds](/images/phone/Milkweed seeds 9x16.jpg)
 </a>
 <a id="Bluemarble" download="Blue-Green Marble 9x16.jpg" href="./images/phone/Blue-Green Marble 9x16.jpg" title="Blue-Green Marble">
 ![Blue-Green Marble](/images/phone/Blue-Green Marble 9x16.jpg)
