@@ -16,6 +16,30 @@ Simply click an image in order to download it. If the download does not begin, r
 <a id="Prarie" download="Prarie Smoke 9x16.jpg" href="./images/phone/Prarie Smoke 9x16.jpg" title="Prarie Smoke">
 ![Prarie Smoke](/images/phone/Prarie Smoke 9x16.jpg)
 </a>
+<a id="Cattail" download="Old Cattail 9x16.JPG" href="./images/phone/Old Cattail 9x16.JPG" title="Old Cattail">
+![Old Cattail](/images/phone/Old Cattail 9x16.JPG)
+</a>
+<a id="Powerful" download="Powerful Image 9x16.jpg" href="./images/phone/Powerful Image 9x16.jpg" title="Powerful Image">
+![Powerful Image](/images/phone/Powerful Image 9x16.jpg)
+</a>
+<a id="Berries" download="Sticks and Berries 9x16.jpg" href="./images/phone/Sticks and Berries 9x16.jpg" title="Sticks and Berries">
+![Sticks and Berries](/images/phone/Sticks and Berries 9x16.jpg)
+</a>
+<a id="Chicory" download="Common_Chicory_9x16.jpg" href="./images/phone/Common_Chicory_9x16.jpg" title="Common Chicory">
+![Common Chicory](/images/phone/Common_Chicory_9x16.jpg)
+</a>
+<a id="Clover" download="Crimson Clover 9x16.jpg" href="./images/phone/Crimson Clover 9x16.jpg" title="Crimson Clover">
+![Crimson Clover](/images/phone/Crimson Clover 9x16.jpg)
+</a>
+<a id="Lily" download="Desert Lily 9x16.jpg" href="./images/phone/Desert Lily 9x16.jpg" title="Desert Lily">
+![Desert Lily](/images/phone/Desert Lily 9x16.jpg)
+</a>
+<a id="Lake" download="Fall at the lake 9x16.jpg" href="./images/phone/Fall at the lake 9x16.jpg" title="Fall at the lake">
+![Fall at the lake](/images/phone/Fall at the lake 9x16.jpg)
+</a>
+<a id="Ladybug" download="Ladybug 9x16.jpg" href="./images/phone/Ladybug 9x16.jpg" title="Ladybug">
+![Ladybug 9x16.jpg](/images/phone/Ladybug 9x16.jpg)
+</a>
 <a id="leaf" download="Leaf 9x16.jpg" href="./images/phone/Leaf 9x16.jpg" title="Leaf">
 ![Leaf](/images/phone/Leaf 9x16.jpg)
 </a>
@@ -27,6 +51,9 @@ Simply click an image in order to download it. If the download does not begin, r
 </a>
 <a id="Redbird" download="Red Watercolor Bird 9x16.jpg" href="./images/phone/Red Watercolor Bird 9x16.jpg" title="Red Watercolor Bird">
 ![Red Watercolor Bird](/images/phone/Red Watercolor Bird 9x16.jpg)
+</a>
+<a id="Brownleaves" download="Brown Leaves 9x16.jpg" href="./images/phone/Brown Leaves 9x16.jpg" title="Brown Watercolor Leaves">
+![Brown Watercolor Leaves](/images/phone/Brown Leaves 9x16.jpg)
 </a>
 <a id="Oil" download="Oil and Water 9x16.jpg" href="./images/phone/Oil and Water 9x16.jpg" title="Oil and Water">
 ![Oil and Water](/images/phone/Oil and Water 9x16.jpg)
