@@ -13,6 +13,15 @@ Simply click an image in order to download it. If the download does not begin, r
 <a id="Cairn" download="Cairn 9x16.jpg" href="./images/phone/Cairn 9x16.jpg" title="Cairn">
 ![Cairn](/images/phone/Cairn 9x16.jpg)
 </a>
+<a id="Berries" download="Sticks and Berries 9x16.jpg" href="./images/phone/Sticks and Berries 9x16.jpg" title="Sticks and Berries">
+![Sticks and Berries](/images/phone/Sticks and Berries 9x16.jpg)
+</a>
+<a id="leaf" download="Leaf 9x16.jpg" href="./images/phone/Leaf 9x16.jpg" title="Leaf">
+![Leaf](/images/phone/Leaf 9x16.jpg)
+</a>
+<a id="Milkweed" download="Milkweed seeds 9x16.jpg" href="./images/phone/Milkweed seeds 9x16.jpg" title="Milkweed seeds">
+![Milkweed seeds](/images/phone/Milkweed seeds 9x16.jpg)
+</a>
 <a id="Prarie" download="Prarie Smoke 9x16.jpg" href="./images/phone/Prarie Smoke 9x16.jpg" title="Prarie Smoke">
 ![Prarie Smoke](/images/phone/Prarie Smoke 9x16.jpg)
 </a>
@@ -21,9 +30,6 @@ Simply click an image in order to download it. If the download does not begin, r
 </a>
 <a id="Powerful" download="Powerful Image 9x16.jpg" href="./images/phone/Powerful Image 9x16.jpg" title="Powerful Image">
 ![Powerful Image](/images/phone/Powerful Image 9x16.jpg)
-</a>
-<a id="Berries" download="Sticks and Berries 9x16.jpg" href="./images/phone/Sticks and Berries 9x16.jpg" title="Sticks and Berries">
-![Sticks and Berries](/images/phone/Sticks and Berries 9x16.jpg)
 </a>
 <a id="Chicory" download="Common_Chicory_9x16.jpg" href="./images/phone/Common_Chicory_9x16.jpg" title="Common Chicory">
 ![Common Chicory](/images/phone/Common_Chicory_9x16.jpg)
@@ -40,15 +46,13 @@ Simply click an image in order to download it. If the download does not begin, r
 <a id="Ladybug" download="Ladybug 9x16.jpg" href="./images/phone/Ladybug 9x16.jpg" title="Ladybug">
 ![Ladybug 9x16.jpg](/images/phone/Ladybug 9x16.jpg)
 </a>
-<a id="leaf" download="Leaf 9x16.jpg" href="./images/phone/Leaf 9x16.jpg" title="Leaf">
-![Leaf](/images/phone/Leaf 9x16.jpg)
+<a id="Meadow" download="Meadow Flowers 9x16.jpg" href="./images/phone/Meadow Flowers 9x16.jpg" title="Meadow Flowers">
+![Meadow Flowers](/images/phone/Meadow Flowers 9x16.jpg)
 </a>
 <a id="Oil" download="Oil and Water 9x16.jpg" href="./images/phone/Oil and Water 9x16.jpg" title="Oil and Water">
 ![Oil and Water](/images/phone/Oil and Water 9x16.jpg)
 </a>
-<a id="Meadow" download="Meadow Flowers 9x16.jpg" href="./images/phone/Meadow Flowers 9x16.jpg" title="Meadow Flowers">
-![Meadow Flowers](/images/phone/Meadow Flowers 9x16.jpg)
-</a>
+
 <a id="Blur" download="Color Blur 9x16.jpg" href="./images/phone/Color Blur 9x16.jpg" title="Color Blur">
 ![Color Blur](/images/phone/Color Blur 9x16.jpg)
 </a>
@@ -67,8 +71,8 @@ Simply click an image in order to download it. If the download does not begin, r
 <a id="Redbird" download="Red Watercolor Bird 9x16.jpg" href="./images/phone/Red Watercolor Bird 9x16.jpg" title="Red Watercolor Bird">
 ![Red Watercolor Bird](/images/phone/Red Watercolor Bird 9x16.jpg)
 </a>
-<a id="Milkweed" download="Milkweed seeds 9x16.jpg" href="./images/phone/Milkweed seeds 9x16.jpg" title="Milkweed seeds">
-![Milkweed seeds](/images/phone/Milkweed seeds 9x16.jpg)
+<a id="Network" download="Network Blue 9x16.jpg" href="./images/phone/Network Blue 9x16.jpg" title="Network Blue">
+![Network Blue](/images/phone/Network Blue 9x16.jpg)
 </a>
 <a id="Bluemarble" download="Blue-Green Marble 9x16.jpg" href="./images/phone/Blue-Green Marble 9x16.jpg" title="Blue-Green Marble">
 ![Blue-Green Marble](/images/phone/Blue-Green Marble 9x16.jpg)
@@ -79,7 +83,3 @@ Simply click an image in order to download it. If the download does not begin, r
 <a id="Yellowmarble" download="Yellow Marble 9x16.jpg" href="./images/phone/Yellow Marble 9x16.jpgg" title="Yellow Marble">
 ![Yellow Marble](/images/phone/Yellow Marble 9x16.jpg)
 </a>
-<a id="Network" download="Network Blue 9x16.jpg" href="./images/phone/Network Blue 9x16.jpg" title="Network Blue">
-![Network Blue](/images/phone/Network Blue 9x16.jpg)
-</a>
-
