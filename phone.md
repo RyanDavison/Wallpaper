@@ -52,7 +52,6 @@ Simply click an image in order to download it. If the download does not begin, r
 <a id="Oil" download="Oil and Water 9x16.jpg" href="./images/phone/Oil and Water 9x16.jpg" title="Oil and Water">
 ![Oil and Water](/images/phone/Oil and Water 9x16.jpg)
 </a>
-
 <a id="Blur" download="Color Blur 9x16.jpg" href="./images/phone/Color Blur 9x16.jpg" title="Color Blur">
 ![Color Blur](/images/phone/Color Blur 9x16.jpg)
 </a>
