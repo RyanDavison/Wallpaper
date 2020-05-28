@@ -55,9 +55,6 @@ Simply click an image in order to download it. If the download does not begin, r
 <a id="Crosshatch" download="Crosshatch Brambles.jpg" href="./images/phone/Crosshatch Brambles.jpg" title="Crosshatch Brambles">
 ![Crosshatch Brambles](/images/phone/Crosshatch Brambles.jpg)
 </a>
-<a id="Field" download="Field of Flowers.jpg" href="./images/phone/Field of Flowers.jpg" title="Field of Flowers">
-![Field of Flowers](/images/phone/Field of Flowers.jpg)
-</a>
 <a id="Tree" download="Tree.jpg" href="./images/phone/Tree.jpg" title="Tree">
 ![Tree](/images/phone/Tree.jpg)
 </a>
