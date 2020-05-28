@@ -43,9 +43,6 @@ Simply click an image in order to download it. If the download does not begin, r
 <a id="Ladybug" download="Ladybug.jpg" href="./images/phone/Ladybug.jpg" title="Ladybug">
 ![Ladybug.jpg](/images/phone/Ladybug.jpg)
 </a>
-<a id="Meadow" download="Meadow Flowers.jpg" href="./images/phone/Meadow Flowers.jpg" title="Meadow Flowers">
-![Meadow Flowers](/images/phone/Meadow Flowers.jpg)
-</a>
 <a id="Oil" download="Oil and Water.jpg" href="./images/phone/Oil and Water.jpg" title="Oil and Water">
 ![Oil and Water](/images/phone/Oil and Water.jpg)
 </a>
