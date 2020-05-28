@@ -7,8 +7,8 @@ Simply click an image in order to download it. If the download does not begin, r
 <a id="Jumble" download="Jumble.jpg" href="./images/phone/Jumble.jpg" title="Jumble">
 ![Jumble](/images/phone/Jumble.jpg)
 </a>
-<a id="Floweringtree" download="Pink Flowering Tree.jpg" href="./images/phone/Pink Flowering Tree.jpg" title="Pink Flowering Tree">
-![Pink Flowering Tree](/images/phone/Pink Flowering Tree.jpg)
+<a id="Floweringtree" download="Pink Trees.jpg" href="./images/phone/Pink Trees.jpg" title="Pink Trees">
+![Pink Trees](/images/phone/Pink Trees.jpg)
 </a>
 <a id="Cairn" download="Cairn.jpg" href="./images/phone/Cairn.jpg" title="Cairn">
 ![Cairn](/images/phone/Cairn.jpg)
@@ -37,8 +37,8 @@ Simply click an image in order to download it. If the download does not begin, r
 <a id="Lily" download="Desert Lily.jpg" href="./images/phone/Desert Lily.jpg" title="Desert Lily">
 ![Desert Lily](/images/phone/Desert Lily.jpg)
 </a>
-<a id="Lake" download="Fall at the lake.jpg" href="./images/phone/Fall at the lake.jpg" title="Fall at the lake">
-![Fall at the lake](/images/phone/Fall at the lake.jpg)
+<a id="Lake" download="Lake in Fall.jpg" href="./images/phone/Lake in Fall.jpg" title="Lake in Fall">
+![Lake in Fall](/images/phone/Lake in Fall.jpg)
 </a>
 <a id="Ladybug" download="Ladybug.jpg" href="./images/phone/Ladybug.jpg" title="Ladybug">
 ![Ladybug.jpg](/images/phone/Ladybug.jpg)
