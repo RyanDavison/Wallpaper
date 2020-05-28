@@ -31,9 +31,6 @@ Simply click an image in order to download it. If the download does not begin, r
 <a id="Powerful" download="Powerful Image.jpg" href="./images/phone/Powerful Image.jpg" title="Powerful Image">
 ![Powerful Image](/images/phone/Powerful Image.jpg)
 </a>
-<a id="Chicory" download="Common_Chicory_9x16.jpg" href="./images/phone/Common_Chicory_9x16.jpg" title="Common Chicory">
-![Common Chicory](/images/phone/Common_Chicory_9x16.jpg)
-</a>
 <a id="Clover" download="Crimson Clover.jpg" href="./images/phone/Crimson Clover.jpg" title="Crimson Clover">
 ![Crimson Clover](/images/phone/Crimson Clover.jpg)
 </a>
