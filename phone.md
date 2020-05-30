@@ -19,6 +19,24 @@ Simply click an image in order to download it. If the download does not begin, r
 <a id="leaf" download="Leaf.jpg" href="./images/phone/Leaf.jpg" title="Leaf">
 ![Leaf](/images/phone/Leaf.jpg)
 </a>
+<a id="Dead" download="Dead Flowers.jpg" href="./images/phone/Dead Flowers.jpg" title="Dead Flowers">
+![Dead Flowers](/images/phone/Dead Flowers.jpg)
+</a>
+<a id="Dew" download="Dew Grasses.jpg" href="./images/phone/Dew Grasses.jpg" title="Dew Grasses">
+![Dew Grasses](/images/phone/Dew Grasses.jpg)
+</a>
+<a id="Pinktrees" download="Pink Trees.jpg" href="./images/phone/Pink Trees.jpg" title="Pink Trees">
+![Pink Trees](/images/phone/Pink Trees.jpg)
+</a>
+<a id="brick" download="Red and Blue Brick.jpg" href="./images/phone/Red and Blue Brick.jpg" title="Red and Blue Brick">
+![Red and Blue Brick](/images/phone/Red and Blue Brick.jpg)
+</a>
+<a id="Redwinged" download="Redwinged Blackbird.jpg" href="./images/phone/Redwinged Blackbird.jpg" title="Redwinged Blackbird">
+![Redwinged Blackbird](/images/phone/Redwinged Blackbird.jpg)
+</a>
+<a id="rockflowers" download="Yellow Flowers on Rock.jpg" href="./images/phone/Yellow Flowers on Rock.jpg" title="Yellow Flowers on Rock">
+![Yellow Flowers on Rock](/images/phone/Yellow Flowers on Rock.jpg)
+</a>
 <a id="Milkweed" download="Milkweed seeds.jpg" href="./images/phone/Milkweed seeds.jpg" title="Milkweed seeds">
 ![Milkweed seeds](/images/phone/Milkweed seeds.jpg)
 </a>
