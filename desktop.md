@@ -1,94 +1,72 @@
 Simply click an image in order to download it. If the download does not begin, right-click the image and choose "Save Image As".
 
 
-<a id="broken" download="Broken.jpg" href="./images/phone/Broken.jpg" title="Broken">
-![Broken](/images/phone/Broken.jpg)
+<a id="Berries" download="Berries.jpg" href="./images/desktop/Berries.jpg" title="Berries">
+![Berries](/images/desktop/Berries.jpg)
 </a>
-<a id="Jumble" download="Jumble.jpg" href="./images/phone/Jumble.jpg" title="Jumble">
-![Jumble](/images/phone/Jumble.jpg)
+<a id="Bird" download="Bird.jpg" href="./images/desktop/Bird.jpg" title="Bird">
+![Bird](/images/desktop/Bird.jpg)
 </a>
-<a id="Floweringtree" download="Pink Trees.jpg" href="./images/phone/Pink Trees.jpg" title="Pink Trees">
-![Pink Trees](/images/phone/Pink Trees.jpg)
+<a id="Cairn" download="Pink Trees.jpg" href="./images/desktop/Pink Trees.jpg" title="Cairn">
+![Cairn](/images/desktop/Cairn.jpg)
 </a>
-<a id="Cairn" download="Cairn.jpg" href="./images/phone/Cairn.jpg" title="Cairn">
-![Cairn](/images/phone/Cairn.jpg)
+<a id="ChurchDoors" download="Church Doors.jpg" href="./images/desktop/Church Doors.jpg" title="Church Doors">
+![Church Doors](/images/desktop/Church Doors.jpg)
 </a>
-<a id="Berries" download="Sticks and Berries.jpg" href="./images/phone/Sticks and Berries.jpg" title="Sticks and Berries">
-![Sticks and Berries](/images/phone/Sticks and Berries.jpg)
+<a id="Monument" download="Sticks and Colorado National Monument.jpg" href="./images/desktop/Sticks and Colorado National Monument.jpg" title="Sticks and Colorado National Monument">
+![Sticks and Colorado National Monument](/images/desktop/Sticks and Colorado National Monument.jpg)
 </a>
-<a id="leaf" download="Leaf.jpg" href="./images/phone/Leaf.jpg" title="Leaf">
-![Leaf](/images/phone/Leaf.jpg)
+<a id="Dandelion_Stems" download="Dandelion_Stems.jpg" href="./images/desktop/Dandelion_Stems.jpg" title="Dandelion_Stems">
+![Dandelion_Stems](/images/desktop/Dandelion_Stems.jpg)
 </a>
-<a id="Dead" download="Dead Flowers.jpg" href="./images/phone/Dead Flowers.jpg" title="Dead Flowers">
-![Dead Flowers](/images/phone/Dead Flowers.jpg)
+<a id="Fieldflowers" download="Field of flowers Flowers.jpg" href="./images/desktop/Field of flowers Flowers.jpg" title="Field of flowers Flowers">
+![Field of flowers Flowers](/images/desktop/Field of flowers Flowers.jpg)
 </a>
-<a id="Dew" download="Dew Grasses.jpg" href="./images/phone/Dew Grasses.jpg" title="Dew Grasses">
-![Dew Grasses](/images/phone/Dew Grasses.jpg)
+<a id="geometry" download="geometry.jpg" href="./images/desktop/geometry.jpg" title="geometry">
+![geometry](/images/desktop/geometry.jpg)
 </a>
-<a id="Pinktrees" download="Pink Trees.jpg" href="./images/phone/Pink Trees.jpg" title="Pink Trees">
-![Pink Trees](/images/phone/Pink Trees.jpg)
+<a id="GoldenGrasses" download="Pink Trees.jpg" href="./images/desktop/Golden Grasses.jpg" title="Golden Grasses">
+![Golden Grasses](/images/desktop/Golden Grasses.jpg)
 </a>
-<a id="brick" download="Red and Blue Brick.jpg" href="./images/phone/Red and Blue Brick.jpg" title="Red and Blue Brick">
-![Red and Blue Brick](/images/phone/Red and Blue Brick.jpg)
+<a id="heron" download="Great Blue Heron.jpg" href="./images/desktop/Great Blue Heron.jpg" title="Great Blue Heron">
+![Great Blue Heron](/images/desktop/Great Blue Heron.jpg)
 </a>
-<a id="Redwinged" download="Redwinged Blackbird.jpg" href="./images/phone/Redwinged Blackbird.jpg" title="Redwinged Blackbird">
-![Redwinged Blackbird](/images/phone/Redwinged Blackbird.jpg)
+<a id="Hang_in_There" download="Hang_in_There.jpg" href="./images/desktop/Hang_in_There.jpg" title="Hang_in_There">
+![Hang_in_There](/images/desktop/Hang_in_There.jpg)
 </a>
-<a id="rockflowers" download="Yellow Flowers on Rock.jpg" href="./images/phone/Yellow Flowers on Rock.jpg" title="Yellow Flowers on Rock">
-![Yellow Flowers on Rock](/images/phone/Yellow Flowers on Rock.jpg)
+<a id="isaiah408" download="Isaiah-40-8.jpg" href="./images/desktop/Isaiah-40-8.jpg" title="Isaiah-40-8">
+![Isaiah-40-8](/images/desktop/Isaiah-40-8.jpg)
 </a>
-<a id="Milkweed" download="Milkweed seeds.jpg" href="./images/phone/Milkweed seeds.jpg" title="Milkweed seeds">
-![Milkweed seeds](/images/phone/Milkweed seeds.jpg)
+<a id="log" download="Log.jpg" href="./images/desktop/Log.jpg" title="Log">
+![Log](/images/desktop/Log.jpg)
 </a>
-<a id="Prarie" download="Prarie Smoke.jpg" href="./images/phone/Prarie Smoke.jpg" title="Prarie Smoke">
-![Prarie Smoke](/images/phone/Prarie Smoke.jpg)
+<a id="monochrome" download="Monochrome Sunset.jpg" href="./images/desktop/Monochrome Sunset.jpg" title="Monochrome Sunset">
+![Monochrome Sunset](/images/desktop/Monochrome Sunset.jpg)
 </a>
-<a id="Cattail" download="Old Cattail.JPG" href="./images/phone/Old Cattail.JPG" title="Old Cattail">
-![Old Cattail](/images/phone/Old Cattail.JPG)
+<a id="skateboarding" download="No Skateboarding.JPG" href="./images/desktop/No Skateboarding.JPG" title="No Skateboarding">
+![No Skateboarding](/images/desktop/No Skateboarding.JPG)
 </a>
-<a id="Powerful" download="Powerful Image.jpg" href="./images/phone/Powerful Image.jpg" title="Powerful Image">
-![Powerful Image](/images/phone/Powerful Image.jpg)
+<a id="cascade" download="Pink Cascade.jpg" href="./images/desktop/Pink Cascade.jpg" title="Pink Cascade">
+![Pink Cascade](/images/desktop/Pink Cascade.jpg)
 </a>
-<a id="Clover" download="Crimson Clover.jpg" href="./images/phone/Crimson Clover.jpg" title="Crimson Clover">
-![Crimson Clover](/images/phone/Crimson Clover.jpg)
+<a id="redwinged" download="Redwinged Blackbird.jpg" href="./images/desktop/Redwinged Blackbird.jpg" title="Redwinged Blackbird">
+![Redwinged Blackbird](/images/desktop/Redwinged Blackbird.jpg)
 </a>
-<a id="Lily" download="Desert Lily.jpg" href="./images/phone/Desert Lily.jpg" title="Desert Lily">
-![Desert Lily](/images/phone/Desert Lily.jpg)
+<a id="riverside" download="Riverside.jpg" href="./images/desktop/Riverside.jpg" title="Riverside">
+![Riverside](/images/desktop/Riverside.jpg)
 </a>
-<a id="Lake" download="Lake in Fall.jpg" href="./images/phone/Lake in Fall.jpg" title="Lake in Fall">
-![Lake in Fall](/images/phone/Lake in Fall.jpg)
+<a id="robot" download="Robot Car.jpg" href="./images/desktop/Robot Car.jpg" title="Robot Car">
+![Robot Car](/images/desktop/Robot Car.jpg)
 </a>
-<a id="Ladybug" download="Ladybug.jpg" href="./images/phone/Ladybug.jpg" title="Ladybug">
-![Ladybug.jpg](/images/phone/Ladybug.jpg)
+<a id="sticksandberries" download="Sticks and Berries.jpg" href="./images/desktop/Sticks and Berries.jpg" title="Sticks and Berries">
+![Sticks and Berries.jpg](/images/desktop/Sticks and Berries.jpg)
 </a>
-<a id="Oil" download="Oil and Water.jpg" href="./images/phone/Oil and Water.jpg" title="Oil and Water">
-![Oil and Water](/images/phone/Oil and Water.jpg)
+<a id="salsify" download="Wild Salsify.jpg" href="./images/desktop/Wild Salsify.jpg" title="Wild Salsify">
+![Wild Salsify](/images/desktop/Wild Salsify.jpg)
 </a>
-<a id="Blur" download="Color Blur.jpg" href="./images/phone/Color Blur.jpg" title="Color Blur">
-![Color Blur](/images/phone/Color Blur.jpg)
+<a id="yellowflowers" download="Yellow Flowers.jpg" href="./images/desktop/Yellow Flowers.jpg" title="Yellow Flowers">
+![Yellow Flowers](/images/desktop/Yellow Flowers.jpg)
 </a>
-<a id="Crosshatch" download="Crosshatch Brambles.jpg" href="./images/phone/Crosshatch Brambles.jpg" title="Crosshatch Brambles">
-![Crosshatch Brambles](/images/phone/Crosshatch Brambles.jpg)
+<a id="zoom" download="zoom.jpg" href="./images/desktop/zoom.jpg" title="zoom">
+![zoom](/images/desktop/zoom.jpg)
 </a>
-<a id="Tree" download="Tree.jpg" href="./images/phone/Tree.jpg" title="Tree">
-![Tree](/images/phone/Tree.jpg)
-</a>
-<a id="Bluebird" download="Blue Watercolor Bird.jpg" href="./images/phone/Blue Watercolor Bird.jpg" title="Blue Watercolor Bird">
-![Blue Watercolor Bird](/images/phone/Blue Watercolor Bird.jpg)
-</a>
-<a id="Redbird" download="Red Watercolor Bird.jpg" href="./images/phone/Red Watercolor Bird.jpg" title="Red Watercolor Bird">
-![Red Watercolor Bird](/images/phone/Red Watercolor Bird.jpg)
-</a>
-<a id="Network" download="Network Blue.jpg" href="./images/phone/Network Blue.jpg" title="Network Blue">
-![Network Blue](/images/phone/Network Blue.jpg)
-</a>
-<a id="Bluemarble" download="Blue-Green Marble.jpg" href="./images/phone/Blue-Green Marble.jpg" title="Blue-Green Marble">
-![Blue-Green Marble](/images/phone/Blue-Green Marble.jpg)
-</a>
-<a id="Pinkmarble" download="Pink Marble.jpg" href="./images/phone/Pink Marble.jpgg" title="Pink Marble">
-![Pink Marble](/images/phone/Pink Marble.jpg)
-</a>
-<a id="Yellowmarble" download="Yellow Marble.jpg" href="./images/phone/Yellow Marble.jpgg" title="Yellow Marble">
-![Yellow Marble](/images/phone/Yellow Marble.jpg)
-</a>
-
