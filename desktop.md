@@ -1,4 +1,4 @@
-All images are copyright Simply click an image in order to download it. If the download does not begin, right-click the image and choose "Save Image As".
+The desktop wallpaper images on this page can be used by anyone for personal use only. Simply click anywhere on an image to download it. If the download does not begin, right-click the image and choose "Save Image As". To download smartphone wallpaper/lock screen images, click <a href="https://ryandavison.github.io/Wallpaper/phone.html">here</a>.
 
 
 <a id="Berries" download="Berries.jpg" href="./images/desktop/Berries.jpg" title="Berries">
@@ -7,11 +7,11 @@ All images are copyright Simply click an image in order to download it. If the d
 <a id="heron" download="Great Blue Heron.jpg" href="./images/desktop/Great Blue Heron.jpg" title="Great Blue Heron">
 ![Great Blue Heron](/images/desktop/Great Blue Heron.jpg){: class="desktopIMG"}
 </a>
-<a id="monochrome" download="Monochrome Sunset.jpg" href="./images/desktop/Monochrome Sunset.jpg" title="Monochrome Sunset">
-![Monochrome Sunset](/images/desktop/Monochrome Sunset.jpg){: class="desktopIMG"}
-</a>
 <a id="Cairn" download="Pink Trees.jpg" href="./images/desktop/Pink Trees.jpg" title="Cairn">
 ![Cairn](/images/desktop/Cairn.jpg){: class="desktopIMG"}
+</a>
+<a id="monochrome" download="Monochrome Sunset.jpg" href="./images/desktop/Monochrome Sunset.jpg" title="Monochrome Sunset">
+![Monochrome Sunset](/images/desktop/Monochrome Sunset.jpg){: class="desktopIMG"}
 </a>
 <a id="ChurchDoors" download="Church Doors.jpg" href="./images/desktop/Church Doors.jpg" title="Church Doors">
 ![Church Doors](/images/desktop/Church Doors.jpg){: class="desktopIMG"}
