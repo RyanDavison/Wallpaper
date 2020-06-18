@@ -13,14 +13,14 @@ Simply click an image in order to download it. If the download does not begin, r
 <a id="ChurchDoors" download="Church Doors.jpg" href="./images/desktop/Church Doors.jpg" title="Church Doors">
 ![Church Doors](/images/desktop/Church Doors.jpg)
 </a>
-<a id="Monument" download="Sticks and Colorado National Monument.jpg" href="./images/desktop/Sticks and Colorado National Monument.jpg" title="Sticks and Colorado National Monument">
-![Sticks and Colorado National Monument](/images/desktop/Sticks and Colorado National Monument.jpg)
+<a id="Monument" download="Colorado National Monument.jpg" href="./images/desktop/Colorado National Monument.jpg" title="Colorado National Monument">
+![Colorado National Monument](/images/desktop/Colorado National Monument.jpg)
 </a>
 <a id="Dandelion_Stems" download="Dandelion_Stems.jpg" href="./images/desktop/Dandelion_Stems.jpg" title="Dandelion_Stems">
 ![Dandelion_Stems](/images/desktop/Dandelion_Stems.jpg)
 </a>
-<a id="Fieldflowers" download="Field of flowers Flowers.jpg" href="./images/desktop/Field of flowers Flowers.jpg" title="Field of flowers Flowers">
-![Field of flowers Flowers](/images/desktop/Field of flowers Flowers.jpg)
+<a id="Fieldflowers" download="Field of flowers.jpg" href="./images/desktop/Field of flowers.jpg" title="Field of flowers">
+![Field of flowers](/images/desktop/Field of flowers.jpg)
 </a>
 <a id="geometry" download="geometry.jpg" href="./images/desktop/geometry.jpg" title="geometry">
 ![geometry](/images/desktop/geometry.jpg)
@@ -43,8 +43,8 @@ Simply click an image in order to download it. If the download does not begin, r
 <a id="monochrome" download="Monochrome Sunset.jpg" href="./images/desktop/Monochrome Sunset.jpg" title="Monochrome Sunset">
 ![Monochrome Sunset](/images/desktop/Monochrome Sunset.jpg)
 </a>
-<a id="skateboarding" download="No Skateboarding.JPG" href="./images/desktop/No Skateboarding.JPG" title="No Skateboarding">
-![No Skateboarding](/images/desktop/No Skateboarding.JPG)
+<a id="skateboarding" download="No Skateboarding.jpg" href="./images/desktop/No Skateboarding.jpg" title="No Skateboarding">
+![No Skateboarding](/images/desktop/No Skateboarding.jpg)
 </a>
 <a id="cascade" download="Pink Cascade.jpg" href="./images/desktop/Pink Cascade.jpg" title="Pink Cascade">
 ![Pink Cascade](/images/desktop/Pink Cascade.jpg)
@@ -55,8 +55,8 @@ Simply click an image in order to download it. If the download does not begin, r
 <a id="riverside" download="Riverside.jpg" href="./images/desktop/Riverside.jpg" title="Riverside">
 ![Riverside](/images/desktop/Riverside.jpg)
 </a>
-<a id="robot" download="Robot Car.jpg" href="./images/desktop/Robot Car.jpg" title="Robot Car">
-![Robot Car](/images/desktop/Robot Car.jpg)
+<a id="robot" download="Robot Car.JPG" href="./images/desktop/Robot Car.JPG" title="Robot Car">
+![Robot Car](/images/desktop/Robot Car.JPG)
 </a>
 <a id="sticksandberries" download="Sticks and Berries.jpg" href="./images/desktop/Sticks and Berries.jpg" title="Sticks and Berries">
 ![Sticks and Berries.jpg](/images/desktop/Sticks and Berries.jpg)
