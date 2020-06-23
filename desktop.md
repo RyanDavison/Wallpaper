@@ -1,4 +1,4 @@
-The desktop wallpaper images on this page can be used by anyone for personal use only. Simply click anywhere on an image to download it. If the download does not begin, right-click the image and choose "Save Image As". To download smartphone wallpaper/lock screen images, click <a href="https://ryandavison.github.io/Wallpaper/phone.html">here</a>.
+The <span style="font-size:1.3em;">desktop wallpaper</span> images on this page can be used by anyone for personal use only. Simply click anywhere on an image to download it. If the download does not begin, right-click the image and choose "Save Image As". To download smartphone wallpaper/lock screen images, click [here](https://ryandavison.github.io/Wallpaper/phone.html "Download Phone Wallpaper").
 
 
 <a id="Berries" download="Berries.jpg" href="./images/desktop/Berries.jpg" title="Berries">
