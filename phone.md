@@ -27,9 +27,6 @@ The smartphone wallpaper images on this page can be used by anyone for personal 
 <a id="Dew" download="Dew Grasses.jpg" href="./images/phone/Dew Grasses.jpg" title="Dew Grasses">
 ![Dew Grasses](/images/phone/Dew Grasses.jpg)
 </a>
-<a id="Pinktrees" download="Pink Trees.jpg" href="./images/phone/Pink Trees.jpg" title="Pink Trees">
-![Pink Trees](/images/phone/Pink Trees.jpg)
-</a>
 <a id="brick" download="Red and Blue Brick.jpg" href="./images/phone/Red and Blue Brick.jpg" title="Red and Blue Brick">
 ![Red and Blue Brick](/images/phone/Red and Blue Brick.jpg)
 </a>
