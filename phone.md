@@ -1,6 +1,6 @@
 # Phone Wallpaper
 
-The smartphone wallpaper images on this page can be used by anyone for personal use only. Simply click anywhere on an image to download it. If the download does not begin, right-click the image and choose "Save Image As". To download desktop wallpaper images, click [here](https://ryandavison.github.io/Wallpaper/desktop.html "Download esktop Wallpaper").
+The smartphone wallpaper images on this page can be used by anyone for personal use only. Simply click anywhere on an image to download it. If the download does not begin, right-click the image and choose "Save Image As". To download desktop wallpaper images, click [here](https://ryandavison.github.io/wallpaper/desktop.html "Download esktop Wallpaper").
 
 
 <a id="broken" download="Broken.jpg" href="./images/phone/Broken.jpg" title="Broken">
