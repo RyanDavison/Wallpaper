@@ -54,9 +54,6 @@ The smartphone wallpaper images on this page can be used by anyone for personal 
 <a id="Lily" download="Desert Lily.jpg" href="./images/phone/Desert Lily.jpg" title="Desert Lily">
 ![Desert Lily](/images/phone/Desert Lily.jpg)
 </a>
-<a id="Lake" download="Lake in Fall.jpg" href="./images/phone/Lake in Fall.jpg" title="Lake in Fall">
-![Lake in Fall](/images/phone/Lake in Fall.jpg)
-</a>
 <a id="Ladybug" download="Ladybug.jpg" href="./images/phone/Ladybug.jpg" title="Ladybug">
 ![Ladybug.jpg](/images/phone/Ladybug.jpg)
 </a>
