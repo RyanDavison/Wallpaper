@@ -1,17 +1,9 @@
-| # Phone Wallpaper |
-
-<ul id="profileTabs" class="nav nav-tabs">
-    <li class="active"><a href="#profile" data-toggle="tab">Profile</a></li>
-    <li><a href="#about" data-toggle="tab">About</a></li>
-    <li><a href="#match" data-toggle="tab">Match</a></li>
-</ul>
-
-  [Download Desktop Wallpaper](https://ryandavison.github.io/wallpaper/desktop.html">Download Desktop Wallpaper)  Go to [RyanDavisonPhotography.com](https://ryandavisonphotography.com)
+# Phone Wallpaper
   
   <a style="display:inline;" class="active" href="https://ryandavison.github.io/wallpaper/desktop.html">Download Desktop Wallpaper</a>    
-  <a style="display:inline;" href="https://ryandavisonphotography.com">Go to RyanDavisonPhotography.com</a>
+  <a style="display:inline;" href="https://ryandavisonphotography.com">RyanDavisonPhotography.com</a>
   
-The smartphone wallpaper images on this page can be used by anyone for personal use only. Simply click anywhere on an image to download it. If the download does not begin, right-click the image and choose "Save Image As". To download desktop wallpaper images, click [**HERE**](https://ryandavison.github.io/wallpaper/desktop.html "Download desktop Wallpaper").
+The smartphone wallpaper images on this page can be used by anyone for personal use only. Simply click anywhere on an image to download it. If the download does not begin, right-click the image and choose "Save Image As". 
 
 
 <a id="broken" download="Broken.jpg" href="./images/phone/Broken.jpg" title="Broken">
