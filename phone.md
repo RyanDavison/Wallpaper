@@ -1,3 +1,6 @@
+  ---
+title: Smartphone Wallpaper
+---
   
   <a style="display:inline;" class="active" href="https://ryandavison.github.io/wallpaper/desktop.html">Download Desktop Wallpaper</a>    
   <a style="display:inline;" href="https://ryandavisonphotography.com">RyanDavisonPhotography.com</a>
