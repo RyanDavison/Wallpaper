@@ -1,4 +1,4 @@
-# Phone Wallpaper
+| # Phone Wallpaper |
 
 <ul id="profileTabs" class="nav nav-tabs">
     <li class="active"><a href="#profile" data-toggle="tab">Profile</a></li>
