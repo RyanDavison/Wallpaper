@@ -14,7 +14,7 @@ The desktop wallpaper images on this page can be used by anyone for personal use
 <a id="heron" download="Great Blue Heron.jpg" href="./images/desktop/Great Blue Heron.jpg" title="Great Blue Heron">
 ![Great Blue Heron](/images/desktop/Great Blue Heron.jpg){: class="desktopIMG"}
 </a>
-<a id="Cairn" download="Pink Trees.jpg" href="./images/desktop/Pink Trees.jpg" title="Cairn">
+<a id="Cairn" download="Cairn.jpg" href="./images/desktop/Cairn.jpg" title="Cairn">
 ![Cairn](/images/desktop/Cairn.jpg){: class="desktopIMG"}
 </a>
 <a id="monochrome" download="Monochrome Sunset.jpg" href="./images/desktop/Monochrome Sunset.jpg" title="Monochrome Sunset">
